@@ -1,5 +1,5 @@
 First name: JASON
-Midlle name: PIENCENAVES
+Middle name: PIENCENAVES
 Last name: HECHANOVA
 Gender: Male
 Age: 22
